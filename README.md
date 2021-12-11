@@ -1,8 +1,7 @@
 # grey-relation-analysis
 
-## 介绍 Introduction
+## Introduction
 
-使用python解决灰色关联分析问题
 use python solving a gra problem
 
 ## How to use it
