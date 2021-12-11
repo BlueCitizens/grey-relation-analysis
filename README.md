@@ -1,9 +1,12 @@
 # grey-relation-analysis
 
-## Introduction
+## 介绍 Introduction
+
+使用python解决灰色关联分析问题
 use python solving a gra problem
 
 ## How to use it
+
 run the script, wait for the system file picker show up
 
 choose your data, should be excel .xls (.xlsx is not supported by a plugin)
